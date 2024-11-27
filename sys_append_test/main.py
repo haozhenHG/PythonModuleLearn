@@ -32,11 +32,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-'''
-before _  sys.path  
-['E:\\GitRepository\\PythonModuleLearn\\sys_append_test', 
-'E:\\GitRepository\\PythonModuleLearn', '
-D:\\ANACONDA\\envs\\webdev\\python36.zip', 
-'D:\\ANACONDA\\envs\\webdev\\DLLs', 'D:\\ANACONDA\\envs\\webdev\\lib', 'D:\\ANACONDA\\envs\\webdev', 'D:\\ANACONDA\\envs\\webdev\\lib\\site-packages', 'D:\\ANACONDA\\envs\\webdev\\lib\\site-packages\\win32', 'D:\\ANACONDA\\envs\\webdev\\lib\\site-packages\\win32\\lib', 'D:\\ANACONDA\\envs\\webdev\\lib\\site-packages\\Pythonwin']
-
-'''
