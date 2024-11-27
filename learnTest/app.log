@@ -1,2 +1,8 @@
 [2024-11-19 10:48:50,256] [MainThread] [line:7] DEBUG:这条消息会被记录到文件中
 [2024-11-19 10:48:50,256] [MainThread] [line:8] INFO:程序正常运行中...
+2024-11-27 21:28:05,027 - WARNING - foo is running
+2024-11-27 21:28:05,028 - WARNING - foo has finished
+2024-11-27 21:28:05,028 - WARNING - bar is running
+2024-11-27 21:28:05,028 - WARNING - bar has finished
+2024-11-27 21:28:05,028 - WARNING - bar2 is running
+2024-11-27 21:28:05,029 - WARNING - bar2 has finished
